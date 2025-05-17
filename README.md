@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Davi Emnanuel 
+# 👨🏽‍💻 Davi Emanuel 
 
 **`Desenvolvedor FullStack`**
 
